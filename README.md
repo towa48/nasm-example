@@ -18,3 +18,7 @@ A first program for nasm for Linux, Intel, gcc
 > gcc -o hello hello_win64.o
 > ./hello
 ```
+
+## License
+
+MIT
